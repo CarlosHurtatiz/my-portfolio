@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('/assets/fonts/BebasNeueBold.otf') format('truetype')   
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
