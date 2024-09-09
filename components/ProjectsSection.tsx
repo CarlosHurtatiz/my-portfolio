@@ -23,7 +23,7 @@ const projects = [
   {
     name: "AppSalon",
     description:
-      "Tired of managing finances via Excel, I developed an app with Next.js and MongoDB. An ongoing project for efficient personal finance tracking.",
+      "Appsalon is a web app for scheduling appointments in barbershops and beauty salons developed with PHP, MySQL using MVC and a proprietary framework.",
     image: "/assets/images/appsalon.webp",
     current: true,
     github: "https://github.com/CarlosHurtatiz/APPSALON_MVC",
