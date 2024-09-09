@@ -2,7 +2,7 @@
 
 import React, { useState } from "react"
 import Image from "next/image"
-import { AiOutlineGithub, AiOutlineLinkedin } from "react-icons/ai"
+import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineMail } from "react-icons/ai"
 
 const HeroSection = () => {
 
@@ -42,6 +42,12 @@ const HeroSection = () => {
               target="_blank"
             >
               <AiOutlineLinkedin
+                className="hover:-translate-y-1 transition-transform cursor-pointer text-azulO dark:text-azulC"
+                size={30}
+              />
+            </a>
+            <a href="carloshurtatiz@gmail.com" rel="noreferrer" target="_blank">
+              <AiOutlineMail
                 className="hover:-translate-y-1 transition-transform cursor-pointer text-azulO dark:text-azulC"
                 size={30}
               />
