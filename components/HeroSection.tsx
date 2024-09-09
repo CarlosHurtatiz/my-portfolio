@@ -46,7 +46,7 @@ const HeroSection = () => {
                 size={30}
               />
             </a>
-            <a href="carloshurtatiz@gmail.com" rel="noreferrer" target="_blank">
+            <a href="mailto:carloshurtatiz@gmail.com" rel="noreferrer" target="_blank">
               <AiOutlineMail
                 className="hover:-translate-y-1 transition-transform cursor-pointer text-azulO dark:text-azulC"
                 size={30}
